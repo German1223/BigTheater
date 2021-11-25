@@ -498,6 +498,10 @@ body {
   background-position: center;
   background-size: cover;
 }
+
+
+
+
 .slide3_bg2 {
   position: absolute;
   top: 0;
@@ -528,19 +532,19 @@ body {
   background-position: center;
   background-size: cover;
 }
-.swiper-slide3-active,
-.swiper-slide3-active > div > p {
+/*.swiper-slide3-active,
+.swiper-slide3-active  > div >  p {
   filter: saturate(3);
   opacity: 1;
 }
-.swiper-slide3-active > div > p {
+.swiper-slide3-active   > div >  p {
   display: none;
 }
-.swiper-slide3-active > a > button,
+.swiper-slide3-active  > a >  button,
 .swiper-slide3-active > a {
   display: block;
   z-index: 1;
-}
+}*/
 .mySecSwiper {
   width: 100%;
   height: 700px;

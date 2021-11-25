@@ -59,7 +59,7 @@ var swiper33 = new Swiper(".myThirdSwiper", {
   centeredSlides: true,
   slideNextClass: "swiper-slide3-next",
   slidePrevClass: "swiper-slide3-prev",
-  slideActiveClass: "swiper-slide3-active",
+  
 });
 var swiper4 = new Swiper(".myFourthSwiper", {
   slidesPerView: 2,
